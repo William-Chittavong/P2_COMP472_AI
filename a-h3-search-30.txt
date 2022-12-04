@@ -1,0 +1,7 @@
+3 0 3 ...G.....G..AACDD.EIC.BBEICHFF.I.H..
+3 1 2 ...G.....G..AA.DD.EIC.BBEICHFF.ICH..
+2 2 0 ...G.....G..AA....EIC.BBEICHFF.ICH..
+3 3 0 ...G.....G...AA...EIC.BBEICHFF.ICH..
+3 3 0 ...G.....G....AA..EIC.BBEICHFF.ICH..
+3 3 0 ...G.....G.....AA.EIC.BBEICHFF.ICH..
+3 3 0 ...G.....G......AAEIC.BBEICHFF.ICH..

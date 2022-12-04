@@ -1,0 +1,28 @@
+Initial Board Configuration: FDDG..F..GIIF.AAB..HH.B.C.EE..C.....
+
+FDDG..
+F..GII
+F.AAB.
+.HH.B.
+C.EE..
+C.....
+
+Car fuel available:['A: 100', 'B: 100', 'C: 100', 'D: 100', 'E: 100', 'F: 100', 'G: 100', 'H: 100', 'I: 100'] 
+ 
+
+Runtime: 0.0 seconds
+Search Path Length: 5 states
+Solution Path Length: 2 moves
+Solution Path :['B down 1', 'A right 2'] 
+
+B down 1         [99] FDDG..F..GIIF.AA...HH.B.C.EEB.C.....
+A right 2         [98] FDDG..F..GIIF...AA.HH.B.C.EEB.C.....
+
+
+
+FDDG..
+F..GII
+F...AA
+.HH.B.
+C.EEB.
+C.....

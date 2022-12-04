@@ -1,0 +1,6 @@
+1 0 1 ...F..BIIF..BAAE..HGDEC.HGD.C.....C.
+1 1 0 ...F..BIIF..BAA...HGDEC.HGDEC.....C.
+1 1 0 ...F..BIIF..BAA...HGD.C.HGDEC....EC.
+2 2 0 ...F..BIIF..B.AA..HGDEC.HGDEC.....C.
+2 2 0 ...F..BIIF..B..AA.HGDEC.HGDEC.....C.
+2 2 0 ...F..BIIF..B...AAHGDEC.HGDEC.....C.

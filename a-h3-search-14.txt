@@ -1,0 +1,5 @@
+1 0 1 CC..D.GFF.D.GAA.B..EIIB..EH.B...H...
+1 1 0 CC..D.GFF.D.GAA....EIIB..EH.B...H.B.
+2 2 0 CC..D.GFF.D.G.AA...EIIB..EH.B...H.B.
+2 2 0 CC..D.GFF.D.G..AA..EIIB..EH.B...H.B.
+2 2 0 CC..D.GFF.D.G...AA.EIIB..EH.B...H.B.
