@@ -1,0 +1,31 @@
+Initial Board Configuration: CDDII.CFFE..CAAEH.G...H.G.BBB.......
+
+CDDII.
+CFFE..
+CAAEH.
+G...H.
+G.BBB.
+......
+
+Car fuel available:['A: 100', 'B: 100', 'C: 100', 'D: 100', 'E: 100', 'F: 100', 'G: 100', 'H: 100', 'I: 100'] 
+ 
+
+Runtime: 0.0 seconds
+Search Path Length: 144 states
+Solution Path Length: 5 moves
+Solution Path :['B left 1', 'H down 1', 'I right 1', 'E up 1', 'A right 3'] 
+
+B left 1         [99] CDDII.CFFE..CAAEH.G...H.GBBB........
+H down 1         [99] CDDII.CFFE..CAAE..G...H.GBBBH.......
+I right 1         [99] CDD.IICFFE..CAAE..G...H.GBBBH.......
+E up 1         [99] CDDEIICFFE..CAA...G...H.GBBBH.......
+A right 3         [97] CDDEIICFFE..C...AAG...H.GBBBH.......
+
+
+
+CDDEII
+CFFE..
+C...AA
+G...H.
+GBBBH.
+......

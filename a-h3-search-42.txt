@@ -1,0 +1,4 @@
+1 0 1 .EEFF..B.DDDGBAAC.G.IHC...IHC.......
+1 1 0 .EEFF..B.DDDGBAA..G.IHC...IHC.....C.
+2 2 0 .EEFF..B.DDDGB.AA.G.IHC...IHC.....C.
+2 2 0 .EEFF..B.DDDGB..AAG.IHC...IHC.....C.

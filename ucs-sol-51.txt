@@ -1,0 +1,32 @@
+Initial Board Configuration: .GIIH..GFCH.AAFCE..BBCE...DDE.......
+
+.GIIH.
+.GFCH.
+AAFCE.
+.BBCE.
+..DDE.
+......
+
+Car fuel available:['A: 100', 'B: 100', 'C: 100', 'D: 100', 'E: 100', 'F: 100', 'G: 100', 'H: 100', 'I: 100'] 
+ 
+
+Runtime: 0.0 seconds
+Search Path Length: 151 states
+Solution Path Length: 6 moves
+Solution Path :['B left 1', 'D left 2', 'C down 2', 'E down 1', 'F down 2', 'A right 4'] 
+
+B left 1         [99] .GIIH..GFCH.AAFCE.BB.CE...DDE.......
+D left 2         [98] .GIIH..GFCH.AAFCE.BB.CE.DD..E.......
+C down 2         [98] .GIIH..GF.H.AAF.E.BB.CE.DD.CE....C..
+E down 1         [99] .GIIH..GF.H.AAF...BB.CE.DD.CE....CE.
+F down 2         [98] .GIIH..G..H.AA....BBFCE.DDFCE....CE.
+A right 4         [96] .GIIH..G..H.....AABBFCE.DDFCE....CE.
+
+
+
+.GIIH.
+.G..H.
+....AA
+BBFCE.
+DDFCE.
+...CE.
