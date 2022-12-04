@@ -1,0 +1,4 @@
+1 0 1 BBB....EE.H.FFAAH..I..C.GIDDC.G...C.
+0 0 0 BBB.H..EE.H.FFAA...I..C.GIDDC.G...C.
+0 0 0 BBB.H..EE.H.FF.AA..I..C.GIDDC.G...C.
+0 0 0 BBB.H..EE.H.FF..AA.I..C.GIDDC.G...C.

@@ -1,0 +1,29 @@
+Initial Board Configuration: G.II..GDDD..HAACB.HEECB...F.B...F...
+
+G.II..
+GDDD..
+HAACB.
+HEECB.
+..F.B.
+..F...
+
+Car fuel available:['A: 100', 'B: 100', 'C: 100', 'D: 100', 'E: 100', 'F: 100', 'G: 100', 'H: 100', 'I: 100'] 
+ 
+
+Runtime: 0.0 seconds
+Search Path Length: 118 states
+Solution Path Length: 3 moves
+Solution Path :['B down 1', 'C down 1', 'A right 3'] 
+
+B down 1         [99] G.II..GDDD..HAAC..HEECB...F.B...F.B.
+C down 1         [99] G.II..GDDD..HAA...HEECB...FCB...F.B.
+A right 3         [97] G.II..GDDD..H...AAHEECB...FCB...F.B.
+
+
+
+G.II..
+GDDD..
+H...AA
+HEECB.
+..FCB.
+..F.B.

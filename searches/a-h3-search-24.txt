@@ -1,0 +1,4 @@
+1 0 1 FF.I..C..I..C.AAD..GGED.HBBED.H.....
+1 1 0 FF.I..C..I..C.AA...GGED.HBBED.H...D.
+2 2 0 FF.I..C..I..C..AA..GGED.HBBED.H...D.
+2 2 0 FF.I..C..I..C...AA.GGED.HBBED.H...D.

@@ -1,0 +1,7 @@
+3 0 3 .BBB....FFI.AADDI.HEEE..HCCCG.....G.
+2 0 2 .BBBI...FFI.AADD..HEEE..HCCCG.....G.
+0 0 0 .BBBI...FFI.AA....HEEE..HCCCG.....G.
+0 0 0 .BBBI...FFI..AA...HEEE..HCCCG.....G.
+0 0 0 .BBBI...FFI...AA..HEEE..HCCCG.....G.
+0 0 0 .BBBI...FFI....AA.HEEE..HCCCG.....G.
+0 0 0 .BBBI...FFI.....AAHEEE..HCCCG.....G.

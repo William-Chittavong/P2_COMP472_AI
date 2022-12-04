@@ -1,0 +1,37 @@
+Initial Board Configuration: .B.....B..C...AAC.DFFFC.DGHIEE.GHI..
+
+.B....
+.B..C.
+..AAC.
+DFFFC.
+DGHIEE
+.GHI..
+
+Car fuel available:['A: 100', 'B: 100', 'C: 100', 'D: 100', 'E: 100', 'F: 100', 'G: 100', 'H: 100', 'I: 100'] 
+ 
+
+Runtime: 0.3 seconds
+Search Path Length: 1168 states
+Solution Path Length: 11 moves
+Solution Path :['C up 1', 'D up 3', 'F right 2', 'A left 2', 'H up 4', 'F left 3', 'I up 4', 'A right 2', 'E left 2', 'C down 3', 'A right 2'] 
+
+C up 1         [99] .B..C..B..C...AAC.DFFF..DGHIEE.GHI..
+D up 3         [97] DB..C.DB..C...AAC..FFF...GHIEE.GHI..
+F right 2         [98] DB..C.DB..C...AAC....FFF.GHIEE.GHI..
+A left 2         [98] DB..C.DB..C.AA..C....FFF.GHIEE.GHI..
+H up 4         [96] DBH.C.DBH.C.AA..C....FFF.G.IEE.G.I..
+F left 3         [95] DBH.C.DBH.C.AA..C.FFF....G.IEE.G.I..
+I up 4         [96] DBHIC.DBHIC.AA..C.FFF....G..EE.G....
+A right 2         [96] DBHIC.DBHIC...AAC.FFF....G..EE.G....
+E left 2         [98] DBHIC.DBHIC...AAC.FFF....GEE...G....
+C down 3         [96] DBHI..DBHI....AA..FFF.C..GEEC..G..C.
+A right 2         [94] DBHI..DBHI......AAFFF.C..GEEC..G..C.
+
+
+
+DBHI..
+DBHI..
+....AA
+FFF.C.
+.GEEC.
+.G..C.

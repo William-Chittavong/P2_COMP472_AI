@@ -1,0 +1,5 @@
+1 0 1 .BBBII.HHFF..AAGG..C.DEE.C.D...C.D..
+0 0 0 .BBBII.HHFF..AA....C.DEE.C.D...C.D..
+0 0 0 .BBBII.HHFF...AA...C.DEE.C.D...C.D..
+0 0 0 .BBBII.HHFF....AA..C.DEE.C.D...C.D..
+0 0 0 .BBBII.HHFF.....AA.C.DEE.C.D...C.D..

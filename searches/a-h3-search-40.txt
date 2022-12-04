@@ -1,0 +1,6 @@
+2 0 2 DD..E....CE..AACB.FF..B.HHIGB...IG..
+2 1 1 DD..E....CE..AAC..FF..B.HHIGB...IGB.
+2 2 0 DD.CE....CE..AA...FF..B.HHIGB...IGB.
+3 3 0 DD.CE....CE...AA..FF..B.HHIGB...IGB.
+3 3 0 DD.CE....CE....AA.FF..B.HHIGB...IGB.
+3 3 0 DD.CE....CE.....AAFF..B.HHIGB...IGB.

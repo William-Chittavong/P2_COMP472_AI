@@ -1,0 +1,7 @@
+2 0 2 GGG.BBIID...AADHH...D....E.FC..E.FC.
+1 0 1 GGG.BBIID...AAD.....D....E.FC..E.FC.
+0 0 0 GGG.BBII....AA......D....EDFC..EDFC.
+0 0 0 GGG.BBII.....AA.....D....EDFC..EDFC.
+0 0 0 GGG.BBII......AA....D....EDFC..EDFC.
+0 0 0 GGG.BBII.......AA...D....EDFC..EDFC.
+0 0 0 GGG.BBII........AA..D....EDFC..EDFC.
